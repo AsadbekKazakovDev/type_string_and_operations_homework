@@ -6,4 +6,9 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    
+    return a.upper()
+a = "Asadbek"
+print(main())
+a = "samarkand"
+print(main())
