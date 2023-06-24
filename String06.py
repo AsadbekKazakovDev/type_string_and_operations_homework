@@ -8,5 +8,5 @@ def main(s,n):
         str: return answer.
     """
     return s*n
-s,n = "Python",5
+s,n = "Python",4
 print(main(s,n))
