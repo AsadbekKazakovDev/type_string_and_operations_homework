@@ -6,4 +6,12 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    return a*5
+a = "Uz"
+print(main())
+a = "b"
+print(main())
+a = "<"
+print(main())
+a = "999"
+print(main())
