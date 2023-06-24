@@ -8,4 +8,6 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return 
+    return "[" + str(x1) + ", " + str(x2) + ", " + str(x3) + "]"
+x1,x2,x3 = 1,9,25
+print(main(x1,x2,x3))
